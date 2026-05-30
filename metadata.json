@@ -1,0 +1,6 @@
+{
+  "name": "수학자 X의 비밀 연구소",
+  "description": "수학자 X의 비밀 연구소를 배경으로 한 몰입형 수학 방탈출 게임. 흥미진진한 스토리라인과 시각적 수학 인터랙션, 실시간 타이머, 그리고 도전적인 점수 시스템을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
